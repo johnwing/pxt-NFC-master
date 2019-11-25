@@ -10,7 +10,7 @@
         "README.md",
         "main.ts",
         "main.cpp",
-        "_locales/zh-tw/NFC-strings.json"
+        
     ],
     "public": true
 }
