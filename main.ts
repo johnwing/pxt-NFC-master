@@ -148,6 +148,10 @@ namespace NFC {
         return tempStr;
     }
 
+    function obloqDisDisplay(): void {
+        return
+    }
+
     function convertString(myBuffer: number[], len: number): string {
         let myStr = "";
         let temp = 0;

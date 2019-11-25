@@ -6,4 +6,8 @@ namespace NFC {
     	uBit.display.scroll("HELLO!");
         return uBit.serial.rxBufferedSize();
     }
+
+    void obloqEnDisplay() {
+        uBit.display.enable();
+    }
 }
